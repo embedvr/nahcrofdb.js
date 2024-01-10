@@ -1,0 +1,16 @@
+{
+  "name": "nahcrofdb.js",
+  "version": "1.0.0",
+  "description": "A simple client for nahcrofDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "embed",
+  "license": "MIT",
+  "dependencies": {
+    "@whatwg-node/fetch": "^0.9.15"
+  }
+}
